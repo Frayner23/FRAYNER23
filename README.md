@@ -26,11 +26,9 @@
 
 <p align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=verma-anushka&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=frayner23&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frayner23&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frayner23&show_icons=true&locale=en" alt="frayner23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frayner23&" alt="frayner23" /></p>
