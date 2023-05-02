@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fray p. castillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fray p. castillo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/frayner porras castillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frayner porras castillo" height="30" width="40" /></a>
-<a href="https://fb.com/frayner porras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frayner porras" height="30" width="40" /></a>
+<a href="[https://twitter.com/fray p. castillo](https://twitter.com/Fray_Isaj)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fray p. castillo" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/frayner porras castillo](https://www.linkedin.com/in/frayner-porras-castillo-b00797246/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frayner porras castillo" height="30" width="40" /></a>
+<a href="[https://fb.com/frayner porras](https://www.facebook.com/frayner.porras)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="frayner porras" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/V5Mx4kHZBY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/V5Mx4kHZBY" height="30" width="40" /></a>
 </p>
 
